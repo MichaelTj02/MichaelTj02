@@ -6,7 +6,7 @@ BSc Interactive Arts & Technology graduate from Simon Fraser University, focused
 
 ## 🔧 What I'm Working On
 
-- **Autolume** — Software developer building dataset tooling and pipeline improvements for a StyleGAN-based creative application
+- **[Autolume](https://github.com/Metacreation-Lab/autolume)** — Software developer building dataset tooling and pipeline improvements for a StyleGAN-based creative application
 
 ---
 
