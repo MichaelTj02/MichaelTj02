@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**MichaelTj02/MichaelTj02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Interactive Arts & Technology graduate from Simon Fraser University, focused on web and mobile development. Currently working as a Software Developer at SFU's Metacreation Lab, where I build tooling for AI-driven generative art workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm Working On
+
+- **Autolume** — Software developer building dataset tooling and pipeline improvements for a StyleGAN-based creative application
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · C++ · C# · Java · Kotlin · JavaScript · SQL · HTML · CSS · PHP
+
+**Frameworks & Libraries:** Next.js · Tailwind CSS · PyTorch · OpenCV · Pandas · NumPy
+
+**Tools & Databases:** Git · GitHub · Android Studio · Unity · Linux · MySQL · SQLite
+
+---
+
+## 📂 Projects
+
+**[Echoes of Expression](https://github.com/MichaelTj02/EchoesOfExpression)**
+End-to-end AI pipeline that transforms handwritten text into context-aware artwork using OCR, NLP (OpenAI API), and locally-run Stable Diffusion. Features a multithreaded rendering pipeline with automatic CUDA/MPS/CPU backend routing.
+
+**[TraveLogger](https://github.com/MichaelTj02/TravelLogger-2.0)**
+Android fitness app built in Kotlin with MVVM architecture. Integrates GPS, accelerometer, and Google Maps for real-time step counting and route tracking, with ~75–80% step-counting accuracy validated on a physical device.
+
+**[CineScope](https://github.com/DarianSawali/CineScope)**
+Full-stack movie directory using Next.js, PHP, and MySQL. Users can search, rate, and bookmark films, backed by a normalized relational schema and reusable dynamic components.
+
+---
+
+## 📫 Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/michael-tjokrowardojo/) · [E-mail](mailto:mtjokrowardojo@gmail.com)
