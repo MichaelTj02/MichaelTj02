@@ -31,6 +31,9 @@ Computer vision system built with YOLO, Python, and OpenCV that detects helmet c
 **[TraveLogger](https://github.com/MichaelTj02/TravelLogger-2.0)**
 Android fitness app built in Kotlin with MVVM architecture. Integrates GPS, accelerometer, and Google Maps for real-time step counting and route tracking, with ~75–80% step-counting accuracy validated on a physical device.
 
+**[CoffeeLogs](https://github.com/MichaelTj02/CoffeeLogs)**
+Full-stack web app for coffee aficionados logging coffee and brew methods. Built with FastAPI, Next.js, and MySQL. Used Jest, pytest, and GitHub Actions to automate tests.
+
 **[CineScope](https://github.com/DarianSawali/CineScope)**
 Full-stack movie directory using Next.js, PHP, and MySQL. Users can search, rate, and bookmark films, backed by a normalized relational schema and reusable dynamic components.
 
